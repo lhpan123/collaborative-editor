@@ -1,0 +1,23 @@
+# Node modules (frontend)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Python virtual environments (backend)
+venv/
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Database local data
+data/
+
+# IDE settings
+.vscode/
+.idea/
